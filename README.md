@@ -1,7 +1,9 @@
 # Snake
 Snake Game similar to the original 1997 Nokia one (eyedropper green picked!). Brings back the old memories.
 
-![image](https://github.com/outshiningthateskimo/Snake/assets/116450427/22a6dada-4a1b-4954-abd6-e95e40896c6a)
+<p align="center">
+  <img src="https://github.com/outshiningthateskimo/Snake/assets/116450427/22a6dada-4a1b-4954-abd6-e95e40896c6a" width="300" alt="Snake Game">
+</p>
 
 The idea of creating a Snake Game came by as a follow-up of being assigned to do a project for the Multimedia class.  
 This was a team project and I was the one to start working on it.  
