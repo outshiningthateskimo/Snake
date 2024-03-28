@@ -1,6 +1,8 @@
 # Snake
 Snake Game similar to the original 1997 Nokia one (eyedropper green picked!). Brings back the old memories.
 
+**PLAY RIGHT HERE!** → *[Snake](https://outshiningthateskimo.github.io/Snake/)*
+
 <p>
   <img src="https://github.com/outshiningthateskimo/Snake/assets/116450427/22a6dada-4a1b-4954-abd6-e95e40896c6a" width="300" alt="Snake Game">
 </p>
