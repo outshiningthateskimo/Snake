@@ -10,20 +10,21 @@ Thus, this is just the core structure of the game.
 Don't get me wrong, it works, you can directly download this repository if you want to and play the good ol' Snake game we all love.  
 However, I would like to redirect you to the fully implemented project.
 
-### What you will find in this version
+## What you will find in this version
 This is what I implemented (which you can already find right here):
 - the snake moves up, down, left, right
 - randomly placed food
 - the snake length increases with each piece of food consumed
+- hitting the walls is not an issue, the snake teleports on the other side
 - the UI has a cool looking design:
 - black and green color scheme, much like the original Snake game
 - it has a score board to track the player's progress
 
-### What you will find in the completed version
+## What you will find in the completed version
 My classmates continued my implementation by adding the following features:
 - Audio API → collision, eating sounds
 - Voice API → voice commands (up, down, left, right)
 - a Game Over screen instead of an alert being triggered
   
 # Full implementation
-For the fully implemented version of the Snake Game with all the added features and enhancements, please refer to `[snake-game-repo](https://github.com/Ahamdan114/snake-game-repo)`.
+For the fully implemented version of the Snake Game with all the added features and enhancements, please refer to [snake-game-repo](https://github.com/Ahamdan114/snake-game-repo).
