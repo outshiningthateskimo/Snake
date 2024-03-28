@@ -1,0 +1,42 @@
+/* @font-face {
+    font-family: snakeFont;
+    src: url();
+} */
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#cad6c6;
+    /* margin-top: 20px; */
+    background-color: #051101;
+    text-align: center;
+}
+
+#border{
+    border: 20px solid #acd414;
+    border-top: 50px solid #acd414;
+    padding: 20px;
+    margin: 0 20px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#board {
+    border: 10px solid #acd414; 
+}
+
+#score {
+    z-index: 1;
+    position: absolute;
+    top: -8%;
+    left: -0.2%;
+    color: #202c1c;
+    margin: 0; /* Remove default margin for h2 */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container {
+    position: relative;
+}
+
+/* 9x20 */
+/* 12x23 */
